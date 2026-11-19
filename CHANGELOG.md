@@ -2,7 +2,7 @@
 
 All notable changes to this mod are listed here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [0.1.1] - 2026-11-19
 
 ### Fixed
 
@@ -22,5 +22,5 @@ First release.
 
 - Local play only. Multiplayer and dedicated servers are not handled yet.
 
-[Unreleased]: https://github.com/verykrbi/satisfactory-blueprint-order-fix/compare/v0.1.0...HEAD
+[0.1.1]: https://github.com/verykrbi/satisfactory-blueprint-order-fix/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/verykrbi/satisfactory-blueprint-order-fix/releases/tag/v0.1.0
